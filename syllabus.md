@@ -77,6 +77,10 @@ All materials will be provided online:
 
 [Tentative schedule](schedule.md)
 
+## Statement on Grading Policy
+
+Grading in this class will conform to VSE guidelines, which suggest a range of 72-78 average for 300-level courses.
+
 ## Statement on Academic Honesty:
 
 It is the policy of the VSE to report all violations of UBC’s standards for academic integrity to the office of the Dean of Arts. You are personally responsible for knowing the behaviours that are considered a violation of UBC’s policies for academic honesty found here: https://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0. To help you understand these rules, every student in this course will complete a module on “Avoiding Academic Misconduct” in the first week of the term. Any student who violates the rules for academic conduct on submitted work will be given an automatic grade of zero on that component of the course. Further penalties may be levied by the President's Advisory Committee on Student Discipline. Those penalties might include a notation on your transcript indicating that you have committed an academic offence, failure of the course, and/or suspension from the university. You can see more on this process, including a complete list of annual academic discipline cases, here: https://universitycounsel.ubc.ca/homepage/guides-and-resources/discipline/. Speak to your instructor if you have any questions regarding the standard for academic integrity at UBC.
