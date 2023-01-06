@@ -21,22 +21,15 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 20. PS5 review, Overview of the rest of the lectures; [Regression](https://datascience.quantecon.org/applications/regression.html)
 21. Midterm Break
 22. [Regression](https://datascience.quantecon.org/applications/regression.html): LASSO, Ridge, Cross-validation
+23. [Regression](https://datascience.quantecon.org/applications/regression.html): Random Forest, Neural Network
+24. [Classification](https://datascience.quantecon.org/applications/regression.html)
+25. Graphical models
+26. [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+27. [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+29. [Heterogeneous effects](https://datascience.quantecon.org/applications/ml_in_economics.html)
+31. [Application: Social and economic networks](https://github.com/doctor-phil/analyzing-economic-networks/blob/main/Analyzing_economic_networks.ipynb)
+32. Exam, Final project due
 
-## Schedule for the remainder of the semester, Winter 1 2022:
-24. **November 17** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-25. **November 22** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
-26. **November 24** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-27. **November 29** - Machine learning: [Classification](https://datascience.quantecon.org/applications/classification.html) and [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
-28. **December 1** - [Social and economic networks](https://github.com/doctor-phil/analyzing-economic-networks/blob/main/Analyzing_economic_networks.ipynb)
-29. **December 6** - Class with Josh
-30. **December 15** - Exam, Final project due
-
-## Problem Sets
-**Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2022_Spring/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`!
-
-
-1. Due **September 23 at 11:59pm** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
-2. Due **October 4 at 11:59pm** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
-3. Due **Friday October 14 at 11:59pm** - [Problem Set 3](problem_sets/problem_set_3.ipynb)
-4. Due **Tuesday November 1 at 11:59pm** - [Problem Set 4](problem_sets/problem_set_4.ipynb)
-5. Due **~~Friday November 25~~ Monday November 28 at 11:59pm** - [Problem Set 5](problem_sets/problem_set_5.ipynb)
+## Problem sets and deadlines
+**Important:** work on the problem sets in the [course git repository](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets), not the ones from `quantecon.org`. The problem sets that appear in `lecture-datascience.notebooks/problem_sets` are not required for the course.
+1. [Problem set 1](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_1.ipynb)
