@@ -21,6 +21,8 @@ If possible, please bring a laptop to class to interactively discuss the materia
 - Office Hours: Monday and Wednesday, 2:30-3:30pm, Iona #106
 - TA: Joshua Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
 - Office Hours Fridays 11:00am - 12:00pm or by appointment, IONA #434
+- TA: Leopoldo Gutierre [leopmig@mail.ubc.ca](mailto:leopmig@mail.ubc.ca)
+- Office Hours TBD
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
