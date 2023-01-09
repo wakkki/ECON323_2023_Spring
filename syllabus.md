@@ -17,7 +17,7 @@ The classes will be held at **LASR 104** on Tuesday and Thursday, 12:30-1:50pm. 
 ## Course Materials and Communications
 
 All materials will be provided online:
-- Class Materials: https://github.com/doctor-phil/ECON323_2022_Fall
+- Class Materials: https://github.com/doctor-phil/ECON323_2023_Spring
 - Communications, Announcements, Grades, Piazza: http://canvas.ubc.ca
 
 ## Grading
