@@ -13,7 +13,7 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyze these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-The classes will be held at **LASR 104** on Monday and Wednesday, 5:00-6:30pm (Section 4) and **CHEM C124** on Monday and Wednesday, 1:30-3:00pm (Section 3). These schedules will be subject to changes in related UBC policies.
+The classes will be held at **LASR 102** on Monday and Wednesday, 5:00-6:30pm (Section 4) and **CHEM C124** on Monday and Wednesday, 1:30-3:00pm (Section 3). These schedules will be subject to changes in related UBC policies.
 
 ## Course Materials and Communications
 
